@@ -1,4 +1,5 @@
- ### <img width="256" height="145" alt="image" src="https://github.com/user-attachments/assets/9ff992e0-384a-4503-9408-3110992113e6" />
+ ### <img width="758" height="458" alt="image" src="https://github.com/user-attachments/assets/7e909856-f705-4dd9-984d-07711d5ec4e2" />
+
  
 # METROBANK CASESTUDY
 This project focuses on helping MetroBank, a leading financial institution, uncover insights about its customers, branches, transactions, and service experience through data.
